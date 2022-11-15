@@ -27,7 +27,7 @@ npm run test
 
 👤 **Haim Hamiel**
 
-* Github: [@ HaimHamiel ](https://github.com/ HaimHamiel )
+* Github: [@HaimHamiel](https://github.com/HaimHamiel)
 
 ## Show your support
 
